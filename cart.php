@@ -20,9 +20,9 @@ $cart = new Cart;
     </script>
 	</head>
     <body>
-		<?php include_once("hearder.php");?>
+		<?php include_once("header.php");?>
 		<div id="wrapper" class="container">
-			<?php include_once("subhearder.php");?>
+			<?php include_once("subheader.php");?>
 			<section>
 			<div class="row">
 			<img src="images/pageBanner.png" width="100%"height="auto" >
