@@ -40,19 +40,19 @@ include 'connect_to_mysql.php';
 								<div class="col-md-8 col-xs-12">
 			<form role="form" method="POST" name="customerform" action="Checkout.php">
 			<div class="row" id="checkout-form">
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold"><span style="max-width:28px">Name:</span> <input type="text" id="name" name="name" placeholder=" Your Full Name"/></div>
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold">Email: <input type="text" id="email" name="email" placeholder=" Email Address"/></div></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold"><span style="max-width:28px">Name:</span> <input type="text" id="name" name="name" placeholder=" Your Full Name"/></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold">Email: <input type="text" id="email" name="email" placeholder=" Email Address"/></div></div>
 			        <div class="row" id="checkout-form">
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold">Phone: <input type="text" id="phone" name="phone" placeholder=" Phone Number"/></div>
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold">City: <input type="text" id="city" name="city" placeholder=" Your City"/></div></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold">Phone: <input type="text" id="phone" name="phone" placeholder=" Phone Number"/></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold">City: <input type="text" id="city" name="city" placeholder=" Your City"/></div></div>
 			        <div class="row" id="checkout-form">
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold">State: <input type="text" id="state" name="state" placeholder=" Your State"/></div>
-			        <div class="col-sm-6 col-xs-6 col-md-6" style="font-weight:bold">Country: <input type="text" id="country" name="country" placeholder=" Your Country"/></div></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold">State: <input type="text" id="state" name="state" placeholder=" Your State"/></div>
+			        <div class="col-sm-6 col-xs-12 col-md-6" style="font-weight:bold">Country: <input type="text" id="country" name="country" placeholder=" Your Country"/></div></div>
 
 			<div class="col-sm-12 col-xs-12 col-md-12">
 			<br><br>
 			<center>
-			<input type="submit" name="sub" id="sub" value="SUBMIT"/></center>
+			<input type="submit" name="sub" id="sub" value="SUBMIT" class="product-cart" style="color:#ffffff"/></center>
 			</div>
 			</form>
 			</div>
