@@ -68,10 +68,10 @@ $result = $conn->query($sql);
 			        <div class="col-md-4 col-xs-12" style="padding: 0px !important;">
 			            <img src="images/banner.png" height="auto" width="100%"/>
 			        </div>
-			        <div class="col-md-4 col-xs-12" style="padding: 0px !important;">
+			        <div class="col-md-4 col-xs-12" style="padding: 0px !important;text-align:center">
 			            <p id="quote">Wine is Always a Good Idea</p>
 			        </div>
-			        <div class="col-md-4 col-xs-hidden" style="padding: 0px !important;">
+			        <div class="col-md-4 hidden-sm hidden-xs" style="padding: 0px !important;">
 			            <img src="images/banner.png" height="auto" width="100%"/>
 			        </div>
 			    </div>
