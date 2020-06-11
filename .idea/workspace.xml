@@ -6,11 +6,27 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e80b7eb-89b2-49ed-84b9-b381f9bf380a" name="Default Changelist" comment="commit all files third time" />
+    <list default="true" id="7e80b7eb-89b2-49ed-84b9-b381f9bf380a" name="Default Changelist" comment="commit all files fourth time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591734904091</updated>
       <workItem from="1591734914427" duration="5206000" />
-      <workItem from="1591746587608" duration="2171000" />
+      <workItem from="1591746587608" duration="2496000" />
     </task>
     <task id="LOCAL-00001" summary="commit all files first time">
       <created>1591744540326</created>
@@ -64,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591745246093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit all files fourth time">
+      <created>1591916051422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591916051422</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +109,8 @@
     <MESSAGE value="commit all files first time" />
     <MESSAGE value="commit all files second time" />
     <MESSAGE value="commit all files third time" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit all files third time" />
+    <MESSAGE value="commit all files fourth time" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files fourth time" />
   </component>
   <component name="WindowStateProjectService">
     <state x="52" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591745404450">
